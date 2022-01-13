@@ -31,4 +31,5 @@ hugo server -D
 ```console
 hugo -D
 ```
+Output will be in ./public/ directory
 
