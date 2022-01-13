@@ -13,7 +13,8 @@
       <pubDate>Thu, 13 Jan 2022 23:21:51 +0330</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <description>Test KaTeX:
+$$y_t = \beta_0 + \beta_1 x_t + \epsilon_t$$</description>
     </item>
     
   </channel>
