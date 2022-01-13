@@ -9,3 +9,8 @@ Download the appropriate version for your platform from [Hugo Releases](https://
 ```console
 hugo new site start-hugo
 ```
+
+# Theme Installation
+
+Install [PaperMode](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation) theme.
+
