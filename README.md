@@ -26,3 +26,9 @@ hugo new posts/my-first-post.md
 hugo server -D
 ```
 
+# Build static pages
+
+```console
+hugo -D
+```
+
