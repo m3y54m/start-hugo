@@ -20,3 +20,9 @@ Install [PaperMode](https://github.com/adityatelange/hugo-PaperMod/wiki/Installa
 hugo new posts/my-first-post.md
 ```
 
+# Start the Hugo server
+
+```console
+hugo server -D
+```
+
