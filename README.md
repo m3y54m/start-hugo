@@ -14,3 +14,9 @@ hugo new site start-hugo
 
 Install [PaperMode](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation) theme.
 
+# Create First Post
+
+```console
+hugo new posts/my-first-post.md
+```
+
